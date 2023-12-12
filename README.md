@@ -19,3 +19,12 @@ How to we do this ?  Ofcourse by using media quries.
 
 There are many more ways you can specify your condition, but in the majority of cases we use 'max-width' or something that is
 
+### Standard Breakpoints - Mesia Queries .
+ The size on the media query above as an a arbitrary value  had i just picked, but this is of course up to the developer to choose. There exists sort of standard values in the IT Business, I say sort of because there are many variants.But the standard values are as follows in chrome:
+ -** 4 K** screen larger than 2560px
+ -**Laptop L**: larger than 1440px
+ -**Laptop **: larger than 1024px
+ -** Tablet**: larger than 768px
+ -**MobiLe L** larger than 425px
+ -**Mobile M** larger than 375px
+ -**Mobile S** larger than 320px
